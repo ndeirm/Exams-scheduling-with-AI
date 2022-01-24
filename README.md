@@ -1,6 +1,8 @@
 # Exams-scheduling-with-AI
 A java app to calclulate the optimum scheduling of all Courses in order all students participating in Final examinations to have max time for study.
 
+(IF YOU ARE INTERESTING TO PARTICIPATE IN FURTHER DEVELOPMENT OF THIS APP PLS COPY-PASTE THE BELOW IN GOOGLE TRANSPLATE, I DONT HAVE THE TIME TO DO THE TRANSLATION MYSELF)
+
 Προϋποθέσεις
 
 Eχω δημιουργήσει την εφαρμογή Exams_Scheduling.jar 
@@ -112,6 +114,7 @@ PLIPS_II("ΠΛΗΨΙΙ"),
 
 
 Μελλοντικές αναβαθμίσεις User interface
+
 -	Επιλογή ενοτήτων απευθείας από τον χρήστη , το πρόγραμμα εκτελείς τις υπόλοιπες τιμές
 -	Επιλογή μέσης απόδοσης από τον χρήστη 
 -	Όταν βρίσκει προβληματικό άτομο θα μπορούσε να αλλάζει την ημερομηνία εξέτασης +2 ημέρες και να ξανατρέχει τους ελέγχους για όλο τον πληθυσμό
