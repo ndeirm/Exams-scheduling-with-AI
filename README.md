@@ -4,7 +4,7 @@ A java app to calclulate the optimum scheduling of classes in order for all stud
 
 Προϋποθέσεις
 
-Για την επίλυση του συγκεκριμένου θέματος έχω δημιουργήσει την εφαρμογή Exams_Scheduling.jar 
+Eχω δημιουργήσει την εφαρμογή Exams_Scheduling.jar 
 
 Για να τρέξει σωστά θα πρέπει να αντιγράψετε το Jar file μαζί με το αρχείο Excel στην επιφάνεια εργασίας σας.
 Επίσης θα πρέπει να υπάρχει εγκατεστημένο το «Java Runtime Environment» 
