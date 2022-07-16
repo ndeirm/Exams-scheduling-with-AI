@@ -1,8 +1,11 @@
 # Exams-scheduling-with-AI
-A java app to calclulate optimum scheduling during Final examinations in relation to students chosen courses.
-Our aim is to have min students with courses near to eash other and as a result to have max time for studying before final examinations.
 
-If you are intersting to participate in future development of this app feel free to contact me at ndeirm@gmail.com.
+A java app to calclulate optimum scheduling during Final examinations. 
+All calculations are based in the given input (excel file with all students choosen courses).
+Our aim is to prepare an output with min conflicted courses.
+As a result students will have max time for studying.
+
+If you are intersting to participate in future development of this app, feel free to contact me at ndeirm@gmail.com.
 
 Προϋποθέσεις
 
